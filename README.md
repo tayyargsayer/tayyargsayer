@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello world, I'm Tayyar Görkem Sayer 👋
 
+I believe that technology has the power to change the world for the better, and I'm driven to be a part of that change. That's why I'm passionate about Software world.
 
-**tayyargsayer/tayyargsayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Through my projects, I aim to automatize-analyze and make a positive impact in the world. I believe that with hard work, dedication, and a little bit of creativity, anything is possible. Keep pushing yourself to learn and grow, and remember that every small step you take brings you closer to where you want to be. 🚀
 
 
 Here are some ideas to get you started:
