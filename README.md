@@ -5,20 +5,35 @@
   <img height="150" src="https://imgur.com/J2PfV2m.gif" />
 </p>
 
+<div align="center">
+    <a href="mailto:tgorkemsayer@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="64" height="40" alt="gmail logo"  />
+    </a>
+  <a href="https://www.linkedin.com/in/tgorkemsayer/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-## Glad to see you here!  
-As a Python connoisseur, I take pleasure in expressing myself through elegant scripts and concise functions. Python has been my talisman, dealing with anything from web scraping to data analysis, machine learning, and beyond. The Zen of Python is my holy grail.
+## Glad to see you here!
 
-My love for Python even transcends into my hobbies. Drumming out Python scripts, I often find myself automating the mundane tasks of everyday life. "Why do it manually, when you can write a Python script?", I'd say.
+As a Python connoisseur, I take pleasure in expressing myself through elegant scripts and concise functions. Python has
+been my talisman, dealing with anything from web scraping to data analysis, machine learning, and beyond. The Zen of
+Python is my holy grail.
 
-To paraphrase a certain guiding principle – "Readability counts," and Python embodies this spirit with grace. You see, in Python, there's usually one – and preferably only one –obvious way to do it. Welcome to my Pythonic world, and remember, `import antigravity` is always an option!
-<br/>  
+My love for Python even transcends into my hobbies. Drumming out Python scripts, I often find myself automating the
+mundane tasks of everyday life. "Why do it manually, when you can write a Python script?", I'd say.
 
+To paraphrase a certain guiding principle – "Readability counts," and Python embodies this spirit with grace. You see,
+in Python, there's usually one – and preferably only one –obvious way to do it. Welcome to my Pythonic world, and
+remember, `import antigravity` is always an option!
+<br/>
 
-## My Skill Set  
+## My Skill Set
+
 <table><tr><td valign="top" width="20%">
 
 ### Programming Languages
+
 <div align="center">  
 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
@@ -31,8 +46,8 @@ To paraphrase a certain guiding principle – "Readability counts," and Python e
 
 </td><td valign="top" width="20%">
 
-
 ### AI / ML
+
 <div align="center">  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/1200px-Google_Gemini_logo.svg.png" alt="Gemini" height="50" /></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
@@ -45,8 +60,8 @@ To paraphrase a certain guiding principle – "Readability counts," and Python e
 
 </td><td valign="top" width="20%">
 
-
 ### Frontend Development
+
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -58,9 +73,8 @@ To paraphrase a certain guiding principle – "Readability counts," and Python e
 
 </td><td valign="top" width="20%">
 
-
-
 ### Backend Development
+
 <div align="center">  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
@@ -69,18 +83,20 @@ To paraphrase a certain guiding principle – "Readability counts," and Python e
 </td><td valign="top" width="20%">
 
 ### Database
+
 <div align="center">  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 
- 
+
 </div>
 
 </td><td valign="top" width="20%">
 
-### DevOps  
+### DevOps
+
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
@@ -98,31 +114,3 @@ To paraphrase a certain guiding principle – "Readability counts," and Python e
 
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tayyargsayer&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=tayyargsayer&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
-- 📫 How to reach me **project name**
