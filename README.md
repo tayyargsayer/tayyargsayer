@@ -28,9 +28,10 @@ in Python, there's usually one – and preferably only one –obvious way to do 
 remember, `import antigravity` is always an option!
 <br/>
 
-## My Skill Set
 
-<table><tr><td valign="top" width="20%">
+
+## My Skill Set
+<table><tr><td valign="top" width="16.67%">
 
 ### Programming Languages
 
@@ -44,7 +45,7 @@ remember, `import antigravity` is always an option!
 
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="16.67%">
 
 ### AI / ML
 
@@ -58,7 +59,7 @@ remember, `import antigravity` is always an option!
 
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="16.67%">
 
 ### Frontend Development
 
@@ -71,7 +72,7 @@ remember, `import antigravity` is always an option!
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="16.67%">
 
 ### Backend Development
 
@@ -80,7 +81,7 @@ remember, `import antigravity` is always an option!
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="16.67%">
 
 ### Database
 
@@ -93,7 +94,7 @@ remember, `import antigravity` is always an option!
 
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="16.67%">
 
 ### DevOps
 
@@ -107,9 +108,7 @@ remember, `import antigravity` is always an option!
 <a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
 </div>
 
-</td></tr></table>  
-
-
+</td></tr></table>
 
 
 
