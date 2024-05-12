@@ -16,7 +16,7 @@ To paraphrase a certain guiding principle – "Readability counts," and Python e
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="25%">
+<table><tr><td valign="top" width="20%">
 
 ### Programming Languages
 <div align="center">  
@@ -29,7 +29,7 @@ To paraphrase a certain guiding principle – "Readability counts," and Python e
 
 </div>
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="20%">
 
 
 ### AI / ML
@@ -43,7 +43,7 @@ To paraphrase a certain guiding principle – "Readability counts," and Python e
 
 </div>
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="20%">
 
 
 ### Frontend Development
@@ -56,7 +56,7 @@ To paraphrase a certain guiding principle – "Readability counts," and Python e
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="20%">
 
 
 
@@ -66,7 +66,7 @@ To paraphrase a certain guiding principle – "Readability counts," and Python e
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="20%">
 
 ### Database
 <div align="center">  
@@ -78,7 +78,7 @@ To paraphrase a certain guiding principle – "Readability counts," and Python e
  
 </div>
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="20%">
 
 ### DevOps  
 <div align="center">  
