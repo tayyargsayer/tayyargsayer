@@ -59,6 +59,20 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=tayyargsayer&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 ###
 
 <div align="center">
