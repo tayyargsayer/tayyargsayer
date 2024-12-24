@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tayyar </h1>
-<h3 align="center">Freelance Software Developer | Prompt Engineer </h3>
+<h3 align="center">Full Stack Developer | Gen A.I. Engineer </h3>
 
 <p align="center">
   <img height="150" src="https://imgur.com/J2PfV2m.gif" />
